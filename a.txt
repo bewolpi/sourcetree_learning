@@ -1,0 +1,3 @@
+line old 1 new 2
+newer 3
+now line 4
